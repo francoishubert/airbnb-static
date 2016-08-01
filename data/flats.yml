@@ -1,0 +1,36 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: seb-wallpaper.jpeg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  max_num_guest: 8
+  piscine: true
+  room_1: seb-room-1.jpeg
+  room_2: seb-room-2.jpeg
+romain:
+  owner_name: Romain Paillard
+  picture: romain-wallpaper.jpeg
+  owner_picture: romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  max_num_guest: 2
+  piscine: false
+  room_1: romain-room-1.jpeg
+  room_2: romain-room-2.jpeg]
+anne:
+  owner_name: anne
+  picture:  anne-wallpaper.jpeg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Nice flat in Piccadilly
+  city: Brussels, Belgique
+  wifi: false
+  max_num_guest: 5
+  piscine: false
+  room_1: anne-room-1.jpeg
+  room_2: anne-room-2.jpeg
