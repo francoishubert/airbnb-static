@@ -1,0 +1,54 @@
+/* line 1, /Users/hubertfrancois/code/francoishubert/airbnb-static/source/stylesheets/pages/flats.scss */
+.header-flat-details {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30px;
+  padding-left: 0; }
+
+/* line 8, /Users/hubertfrancois/code/francoishubert/airbnb-static/source/stylesheets/pages/flats.scss */
+.header-flat-owner {
+  padding: 20px; }
+
+/* line 12, /Users/hubertfrancois/code/francoishubert/airbnb-static/source/stylesheets/pages/flats.scss */
+.wrapper {
+  border-bottom: 1px solid #dce0e0; }
+
+/* line 16, /Users/hubertfrancois/code/francoishubert/airbnb-static/source/stylesheets/pages/flats.scss */
+#flat-description {
+  background: #F5F5F5;
+  padding: 50px 0;
+  padding-bottom: 100px;
+  font-size: 14px;
+  color: #555555; }
+
+/* line 24, /Users/hubertfrancois/code/francoishubert/airbnb-static/source/stylesheets/pages/flats.scss */
+#flat-data {
+  font-weight: normal;
+  font-size: 12px;
+  color: #797373; }
+  /* line 28, /Users/hubertfrancois/code/francoishubert/airbnb-static/source/stylesheets/pages/flats.scss */
+  #flat-data i {
+    font-size: 20px;
+    color: #9B9B9B;
+    width: 20px;
+    text-align: center; }
+  /* line 34, /Users/hubertfrancois/code/francoishubert/airbnb-static/source/stylesheets/pages/flats.scss */
+  #flat-data li {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-bottom: 3px; }
+  /* line 39, /Users/hubertfrancois/code/francoishubert/airbnb-static/source/stylesheets/pages/flats.scss */
+  #flat-data strong {
+    margin-left: 9px; }
